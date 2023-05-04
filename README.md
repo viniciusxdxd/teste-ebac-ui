@@ -1,2 +1,2 @@
 # teste-ebac-ui
-exercício: Teste de automação de UI
+Teste de automação de UI utilizando o Cypress
